@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Zero Cafe and Lodge
+title: Zero Cafe & Lodge
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Welcome to the Nature
