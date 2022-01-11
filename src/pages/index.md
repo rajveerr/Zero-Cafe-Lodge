@@ -5,7 +5,7 @@ image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Welcome to the Nature
 mainpitch:
-  title: Why Kaldi
+  title: Why Zero
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
