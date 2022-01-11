@@ -1,55 +1,33 @@
 ---
 templateKey: index-page
-title: Zero Cafe & Lodge
+title: Get Amazed @ Zero
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Best Location
 subheading: Welcome to the Nature
 mainpitch:
-  title: Why Zero
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  title: Zero Exist to Serve You
+  description: Located at the Nahargarh foothills, Zero is situated in the prime
+    location near Delhi highway. Zero features luxury rooms with a blend of
+    Rajasthani heritage. Experience fine dining in open-air seating or by the
+    beautiful waterfall and garden making it an amazing romantic dining place.
+    Party by the swimming pool besides an open kitchen to barbecue while your
+    chosen ones may enjoy the rain party and rooftop view.
+description: " Nahargarh Biological Park, Delhi Highway, Jaipur, India"
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: Inspired by European diners and the hearty Indian fare, Enjoy the
+        extensive all-day menu of...
     - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: Zero features luxury rooms with a blend of Rajasthani heritage and comfort
+        with peace...
     - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: Host your next party or business event. We have the best pool deck and
+        rooftop in town...
     - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+      text: The history of the Nahargarh Jungles and the land on which it stands is...
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: Zero Cafe, Restaurant, Hotel, Rooftop, Garden, Events, Pool Party
 main:
   heading: Great coffee with no compromises
   description: >
