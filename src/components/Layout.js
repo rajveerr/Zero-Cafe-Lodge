@@ -14,6 +14,8 @@ const TemplateWrapper = ({ children }) => {
         <html lang="en" />
         <title>{title}</title>
         <meta name="description" content={description} />
+        <meta name="robots" content="noindex, nofollow" />
+        <meta name="robots" content="noimageindex" />
 
         <link
           rel="apple-touch-icon"
