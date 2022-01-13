@@ -11,7 +11,7 @@ It follows the [JAMstack architecture](https://jamstack.org) by using Git as a s
 ## Features
 
 - A simple landing page with blog functionality built with Netlify CMS
-- Editable Pages: Landing, Rooms, Product, Blog-Collection and Contact page with Netlify Form support
+- Editable Pages: Landing, Rooms, Dining, Blog-Collection and Contact page with Netlify Form support
 - Create Blog posts from Netlify CMS
 - Tags: Separate page for posts under each tag
 - Basic directory organization
@@ -69,7 +69,7 @@ import CMS from "netlify-cms-app";
 
 import RoomsPagePreview from "./preview-templates/RoomsPagePreview";
 import BlogPostPreview from "./preview-templates/BlogPostPreview";
-import ProductPagePreview from "./preview-templates/ProductPagePreview";
+import DiningPagePreview from "./preview-templates/DiningPagePreview";
 import IndexPagePreview from "./preview-templates/IndexPagePreview";
 
 // CMS.registerMediaLibrary(uploadcare);
@@ -77,7 +77,7 @@ import IndexPagePreview from "./preview-templates/IndexPagePreview";
 
 CMS.registerPreviewTemplate("index", IndexPagePreview);
 CMS.registerPreviewTemplate("rooms", RoomsPagePreview);
-CMS.registerPreviewTemplate("products", ProductPagePreview);
+CMS.registerPreviewTemplate("dining", DiningPagePreview);
 CMS.registerPreviewTemplate("blog", BlogPostPreview);
 ```
 
