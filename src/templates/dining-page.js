@@ -17,10 +17,8 @@ export const DiningPageTemplate = ({
   intro,
   main,
   testimonials,
-  fullImage,
 }) => {
   const heroImage = getImage(image) || image;
-  const fullWidthImage = getImage(fullImage) || fullImage;
 
   return (
     <div className="content">
@@ -94,6 +92,7 @@ DiningPageTemplate.propTypes = {
     image3: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   }),
   testimonials: PropTypes.array,
+  fullImage: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
 };
 
 const DiningPage = ({ data }) => {
