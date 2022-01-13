@@ -5,13 +5,15 @@ image: /img/home-jumbotron.jpg
 heading: Best Location
 subheading: Welcome to the Nature
 mainpitch:
-  title: Zero Exist to Serve You
-  description: Located at the Nahargarh foothills, Zero is situated in the prime
-    location near Delhi highway. Zero features luxury rooms with a blend of
-    Rajasthani heritage. Experience fine dining in open-air seating or by the
-    beautiful waterfall and garden making it an amazing romantic dining place.
-    Party by the swimming pool besides an open kitchen to barbecue while your
-    chosen ones may enjoy the rain party and rooftop view.
+  title: Welcome to Zero
+  description: Overlooking the beautiful sight of Aravali hills, away from the
+    chaos of Jaipur city yet in close proximity from ‘The Amer Fort’, glancing
+    into the heritage and culture of Royal Rajputana. Zero is a luxurious lodge
+    that graciously combines the glorious history with modern lifestyle.
+    Glittering with the glass work influenced from royal Sheesh Mahals,
+    gracefully embodying the beautiful swimming pool, waterfall and rooftop
+    surrounded by the greenery makes for an exclusive event venue and bespoke
+    residence.
 description: " Nahargarh Biological Park, Delhi Highway, Jaipur, India"
 intro:
   blurbs:
@@ -26,7 +28,7 @@ intro:
         rooftop in town...
     - image: /img/meeting-space.png
       text: The history of the Nahargarh Jungles and the land on which it stands is...
-  heading: What we offer
+  heading: Can not find this in UI
   description: Zero Cafe, Restaurant, Hotel, Rooftop, Garden, Events, Pool Party
 main:
   heading: Great coffee with no compromises
