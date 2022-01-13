@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Get Amazed @ Zero
-image: /img/home-jumbotron.jpg
+image: /img/zeroatnight.jpg
 heading: Best Location
 subheading: Welcome to the Nature
 mainpitch:
