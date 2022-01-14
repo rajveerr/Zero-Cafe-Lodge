@@ -9,11 +9,10 @@ mainpitch:
   description: Overlooking the beautiful sight of Aravali hills, away from the
     chaos of Jaipur city yet in close proximity from ‘The Amer Fort’, glancing
     into the heritage and culture of Royal Rajputana. Zero is a luxurious lodge
-    that graciously combines the glorious history with modern lifestyle.
-    Glittering with the glass work influenced from royal Sheesh Mahals,
-    gracefully embodying the beautiful swimming pool, waterfall and rooftop
-    surrounded by the greenery makes for an exclusive event venue and bespoke
-    residence.
+    that combines the glorious history with modern lifestyle. Glittering with
+    the glass work influenced from royal Sheesh Mahals, gracefully embodying the
+    beautiful swimming pool, waterfall and rooftop surrounded by the greenery
+    makes for an exclusive event venue and bespoke residence.
 description: " Nahargarh Biological Park, Delhi Highway, Jaipur, India"
 intro:
   blurbs:
