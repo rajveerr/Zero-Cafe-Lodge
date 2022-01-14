@@ -10,7 +10,10 @@ import vimeo from "../img/social/vimeo.svg";
 const Footer = class extends React.Component {
   render() {
     return (
-      <footer className="footer has-background-black has-text-white-ter">
+      <footer className="footer">
+        <div className="content has-background-black has-text-white-ter">
+          Got a Question? Call Us +91 77373 89887
+        </div>
         <div className="content has-text-centered">
           <img
             src={logo}
@@ -18,60 +21,29 @@ const Footer = class extends React.Component {
             style={{ width: "14em", height: "10em" }}
           />
         </div>
-        <div className="content has-text-centered has-background-black has-text-white-ter">
-          <div className="container has-background-black has-text-white-ter">
+        <div className="content has-text-centered">
+          <div className="container">
             <div style={{ maxWidth: "100vw" }} className="columns">
               <div className="column is-4">
-                <section className="menu">
-                  <ul className="menu-list">
-                    <li>
-                      <Link to="/" className="navbar-item">
-                        Home
-                      </Link>
-                    </li>
-                    <li>
-                      <Link className="navbar-item" to="/rooms">
-                        Rooms
-                      </Link>
-                    </li>
-                    <li>
-                      <Link className="navbar-item" to="/dining">
-                        Dining
-                      </Link>
-                    </li>
-                    <li>
-                      <Link className="navbar-item" to="/contact/examples">
-                        Form Examples
-                      </Link>
-                    </li>
-                    <li>
-                      <a
-                        className="navbar-item"
-                        href="/admin/"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                      >
-                        Admin
-                      </a>
-                    </li>
-                  </ul>
-                </section>
+                <h3>Zero</h3>
+                <p>
+                Overlooking the beautiful sight of Aravali hills, away from the chaos of Jaipur city yet in close proximity from ‘The Amer Fort’, glancing into the heritage and culture of Royal Rajputana. Zero is a luxurious lodge that graciously combines the glorious history with modern lifestyle. Glittering with the glass work influenced from royal Sheesh Mahals, gracefully embodying the beautiful swimming pool, waterfall and rooftop surrounded by the greenery makes for an exclusive event venue and bespoke residence.
+                </p>
               </div>
               <div className="column is-4">
-                <section>
-                  <ul className="menu-list">
-                    <li>
-                      <Link className="navbar-item" to="/blog">
-                        Latest Stories
-                      </Link>
-                    </li>
-                    <li>
-                      <Link className="navbar-item" to="/contact">
-                        Contact
-                      </Link>
-                    </li>
-                  </ul>
-                </section>
+              <h3>Contact</h3>
+                <p>
+                  +91 77373 89887
+                </p>
+                <p>
+                  info@zerocafelodge.com
+                </p>
+                <p>
+                Zero Cafe &amp; Lodge,<br />
+                Nahargarh Biological Park,<br />
+                Delhi Highway, Jaipur, India<br />
+
+                </p>
               </div>
               <div className="column is-4 social">
                 <a title="facebook" href="https://facebook.com">

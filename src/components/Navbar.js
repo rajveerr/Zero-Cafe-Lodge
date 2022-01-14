@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "gatsby";
-import github from "../img/github-icon.svg";
 import logo from "../img/logo-zero-cafe-lodge.svg";
 
 const Navbar = class extends React.Component {
@@ -82,14 +81,12 @@ const Navbar = class extends React.Component {
             <div className="navbar-end has-text-centered">
               <a
                 className="navbar-item"
-                href="https://github.com/netlify-templates/gatsby-starter-netlify-cms"
-                target="_blank"
-                rel="noopener noreferrer"
+                href="tel:7737389887"
               >
-                <span className="icon">
-                  <img src={github} alt="Github" />
-                </span>
+                  <ion-icon name="heart" size="large"></ion-icon>
+                  <span>7737-389887</span>
               </a>
+              
             </div>
           </div>
         </div>
