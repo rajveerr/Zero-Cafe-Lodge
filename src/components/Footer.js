@@ -17,7 +17,7 @@ const Footer = class extends React.Component {
         <div className="content has-text-centered">
           <img
             src={logo}
-            alt="Zero Cafe and Lodge"
+            alt="ZERO Cafe and Lodge"
             style={{ width: "14em", height: "10em" }}
           />
         </div>
@@ -25,9 +25,9 @@ const Footer = class extends React.Component {
           <div className="container">
             <div style={{ maxWidth: "100vw" }} className="columns">
               <div className="column is-4">
-                <h3>Zero</h3>
+                <h3>ZERO</h3>
                 <p>
-                Overlooking the beautiful sight of Aravali hills, away from the chaos of Jaipur city yet in close proximity from ‘The Amer Fort’, glancing into the heritage and culture of Royal Rajputana. Zero is a luxurious lodge that graciously combines the glorious history with modern lifestyle. Glittering with the glass work influenced from royal Sheesh Mahals, gracefully embodying the beautiful swimming pool, waterfall and rooftop surrounded by the greenery makes for an exclusive event venue and bespoke residence.
+                Overlooking the beautiful sight of Aravali hills, away from the chaos of Jaipur city yet in close proximity from ‘The Amer Fort’, glancing into the heritage and culture of Royal Rajputana. ZERO is a luxurious lodge that graciously combines the glorious history with modern lifestyle. Glittering with the glass work influenced from royal Sheesh Mahals, gracefully embodying the beautiful swimming pool, waterfall and rooftop surrounded by the greenery makes for an exclusive event venue and bespoke residence.
                 </p>
               </div>
               <div className="column is-4">
@@ -36,10 +36,10 @@ const Footer = class extends React.Component {
                   +91 77373 89887
                 </p>
                 <p>
-                  info@zerocafelodge.com
+                  hello@zerocafelodge.com
                 </p>
                 <p>
-                Zero Cafe &amp; Lodge,<br />
+                ZERO Cafe &amp; Lodge,<br />
                 Nahargarh Biological Park,<br />
                 Delhi Highway, Jaipur, India<br />
 

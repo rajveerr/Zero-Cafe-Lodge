@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Welcome to Zero",
+    title: "Welcome to ZERO",
     description:
-      "Zero Cafe, Restaurant, Hotel, Rooftop, Garden, Events, Pool Party",
+      "ZERO Cafe, Restaurant, Hotel, Rooftop, Garden, Events, Pool Party",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
