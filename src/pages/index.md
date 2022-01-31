@@ -3,7 +3,7 @@ templateKey: index-page
 title: Get Amazed @ ZERO
 image: /img/zeroatnight.jpg
 heading: Best Location
-subheading: Welcome to the Nature
+subheading: Welcome to Zero Amer
 mainpitch:
   title: Welcome to ZERO
   description: Overlooking the beautiful sight of Aravali hills, away from the
