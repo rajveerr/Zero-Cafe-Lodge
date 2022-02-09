@@ -27,7 +27,7 @@ export const IndexPageTemplate = ({
         <div className="container">
           <div className="section">
             <div className="columns">
-              <div className="column is-10 is-offset-1">
+              <div className="column is-10 is-offset-1 grid-items">
                 <div className="content">
                   <div className="content">
                     <div className="tile">
@@ -39,10 +39,10 @@ export const IndexPageTemplate = ({
                   </div>
                   <div className="columns">
                     <div className="column is-12">
-                      <h3 className="has-text-weight-semibold is-size-2">
+                      <h3 className="grid-header">
                         {heading}
                       </h3>
-                      <p>{description}</p>
+                      {/* <p>{description}</p> */}
                     </div>
                   </div>
                   <Features gridItems={intro.blurbs} />

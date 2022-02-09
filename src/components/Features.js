@@ -4,20 +4,22 @@ import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 
 const FeatureGrid = ({ gridItems }) => (
   <div className="columns is-multiline">
-    {gridItems.map((item) => (
-      <div key={item.text} className="column is-6">
+    {gridItems.map((item, counting) => (
+      counting = counting + 1,
+      <div key={item.text} className={`column is-6 article-${counting}`}>
+        <p>{counting}</p>
         <section className="section">
           <div className="has-text-centered">
             <div
-              style={{
-                width: "240px",
-                display: "inline-block",
-              }}
+              className={`featured-image-${counting}`}
             >
               <PreviewCompatibleImage imageInfo={item} />
             </div>
           </div>
-          <p>{item.text}</p>
+          <article className={`article article-${counting}`}>
+            <h2>Blah</h2>
+            <p>{item.text}</p>
+          </article>
         </section>
       </div>
     ))}
