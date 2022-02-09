@@ -19,6 +19,31 @@ body
     background-color: #f5f3ec
 
 
+.navbar
+  &:before
+    display: block
+    position: fixed 
+    top: 0
+    right: 0
+    bottom: 0
+    left: 0
+    background: rgba(0, 0, 0, 0.85)
+    content: ''
+    z-index: 1
+  &:after
+    content: 'Coming soon'
+    color: white
+    text-transform: uppercase
+    text-align: center
+    display: block
+    position: fixed
+    width: 100%
+    font-size: 4em
+    font-weight: bold
+    top: 40%
+    z-index: 2
+
+
 .grid-items
   display: grid
   grid-gap: 20px
@@ -42,7 +67,7 @@ body
   grid-column: 1 / span 2
 
 
-.grid-header 
+.grid-header
   font-size: 1.5em
   grid-row: 1 / 2
 
