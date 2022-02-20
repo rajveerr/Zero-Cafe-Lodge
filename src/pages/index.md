@@ -17,8 +17,8 @@ description: " Nahargarh Biological Park, Delhi Highway, Jaipur, India"
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: Inspired by European diners and the hearty Indian fare, Enjoy the
-        extensive all-day menu of...
+      text: Private balconies with privacy in mind. Beautiful heritage architecture.
+        Deluxe rooms adorned with delightful colors.
       heading: Luxury Rooms with blend of Rajasthani Heritage
     - image: /img/coffee-gear.png
       text: ZERO features luxury rooms with a blend of Rajasthani heritage and comfort
