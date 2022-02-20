@@ -19,18 +19,18 @@ intro:
     - image: /img/coffee.png
       text: Inspired by European diners and the hearty Indian fare, Enjoy the
         extensive all-day menu of...
-      heading: Heading One
+      heading: Luxury Rooms with blend of Rajasthani Heritage
     - image: /img/coffee-gear.png
       text: ZERO features luxury rooms with a blend of Rajasthani heritage and comfort
         with peace...
-      heading: Heading Two
+      heading: Swimming Pool embodying the beautiful glass work
     - image: /img/tutorials.png
       text: Host your next party or business event. We have the best pool deck and
         rooftop in town...
-      heading: Heading Three
+      heading: ZERO dining brims with energy
     - image: /img/meeting-space.png
       text: The history of the Nahargarh Jungles and the land on which it stands is...
-      heading: Heading Fours
+      heading: Exclusive event venue
   heading: Can not find this in UI
   description: ZERO Cafe, Restaurant, Hotel, Rooftop, Garden, Events, Pool Party
 main:
